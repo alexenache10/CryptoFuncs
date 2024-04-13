@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\Projects\Criptografie\Homework\Homework\main.cpp(32,2): warning C4091: 'typedef ': ignored on left of 'Packet' when no variable is declared
+D:\Projects\Criptografie\Homework\Homework\main.cpp(139,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(154,91): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(313,97): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(325,97): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(329,95): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(434,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(445,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Projects\Criptografie\Homework\Homework\main.cpp(603,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Homework.vcxproj -> D:\Projects\Criptografie\Homework\x64\Debug\Homework.exe
