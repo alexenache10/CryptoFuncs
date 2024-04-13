@@ -1,5 +1,5 @@
 # CryptoFuncs
-C++ implementation using OpenSSL for multiple cryptographic functionalities. To run the project, you need to set the OpenSSL library in the Visual Studio project settings.
+C++ implementation utilizing OpenSSL for various cryptographic functionalities. Ensure OpenSSL library is configured in Visual Studio project settings to run the project.
 
 Implemented Features:
 1. Hex String Converter:
